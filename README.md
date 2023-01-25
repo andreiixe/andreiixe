@@ -29,3 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreiixe&show_icons=true&locale=en&layout=compact" alt="andreiixe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreiixe&show_icons=true&locale=en" alt="andreiixe" /></p>
+<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/794674523696791612
+                            )](https://discord.com/users/794674523696791612)
