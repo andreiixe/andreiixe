@@ -26,13 +26,6 @@
           alt="Stats"
         />
       </td>
-      <td>
-        <a href="https://spotify-github-profile.vercel.app/api/view?uid=afpreqbwe7wv0ylx6n0zejom6&redirect=true" target="_self" title="Open In Spotify">
-          <img
-            src="https://spotify-github-profile.vercel.app/api/view?uid=afpreqbwe7wv0ylx6n0zejom6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
-          />
-        </a>
-      </td>
     </tr>
     <tr>
     </table>
@@ -42,6 +35,14 @@
             <img
                 src="https://img.shields.io/badge/Profile-1db954?logo=spotify&logoColor=white&style=for-the-badge"
                 alt="My Spotify Profile"
+                height="30"/>
+        </a>
+    </kbd>
+        <kbd>
+        <a href="https://www.instagram.com/xiaoshi._andrx">
+            <img
+                src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+                alt="My Instagram Profile"
                 height="30"/>
         </a>
     </kbd>
