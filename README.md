@@ -39,7 +39,7 @@
         </a>
     </kbd>
         <kbd>
-        <a href="https://www.instagram.com/xiaoshi._andrx">
+        <a href="https://www.instagram.com/andreiixe">
             <img
                 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
                 alt="My Instagram Profile"
