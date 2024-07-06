@@ -9,7 +9,7 @@
     <table>
         <tr>
             <td>
-                <img src="https://lanyard.tompc.live/api/888817795490521128?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover">
+                <img src="https://lanyard.cnrad.dev/api/888817795490521128?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover">
             </td>
         </tr>
     </table>
